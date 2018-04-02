@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+
+    <package>"il.co.mintapp.buyme"</package>
+    <activity>"il.co.mintapp.buyme.activities.common.SplashScreen"</activity>
+    <report>/Users/AlmogMaoz/Desktop/extentreport.html</report>
+
+</config>
